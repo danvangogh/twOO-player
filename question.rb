@@ -11,4 +11,5 @@ class Question
   def check_answer(useranswer)
     @answer == useranswer
   end
+
 end
